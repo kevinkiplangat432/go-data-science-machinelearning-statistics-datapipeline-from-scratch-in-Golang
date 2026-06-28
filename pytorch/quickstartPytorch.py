@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# to make this shiet executable
+# to make this shiet executable use chmod +x
 # this is the start of a long journey (THE BEGINNING OF THE END)
 import pandas as pd
 import numpy as np
